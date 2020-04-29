@@ -1,6 +1,6 @@
 # Action Baseline
 
-A GitHub Action for running the OWASP ZAP [Baseline scan](https://www.zaproxy.org/docs/docker/baseline-scan/). 
+A GitHub Action for running the OWASP ZAP [Baseline scan](https://www.zaproxy.org/docs/docker/baseline-scan/) to find vulnerabilities in you web application. 
 
 The ZAP baseline action scans a target URL for vulnerabilities and maintains an issue in GitHub repository for the
 identified alerts. Read the following [blog post](https://www.zaproxy.org/blog/2020-04-09-automate-security-testing-with-zap-and-github-actions) 
